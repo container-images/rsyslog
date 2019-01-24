@@ -1,4 +1,4 @@
 # rsyslog
 Upstream repository for rsyslog image
 
-Testing PR
+Testing PR for sync.
